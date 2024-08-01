@@ -13,7 +13,7 @@ The framework I will use for this project is Laravel, a PHP framework used as a 
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p align="center"> Link: https://laravel.com/ </p>
+<p align="center"> https://laravel.com/ </p>
 
 ## 
 
